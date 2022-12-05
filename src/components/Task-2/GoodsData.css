@@ -1,0 +1,7 @@
+.goodsData {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    justify-content: space-evenly;
+    gap: 20px;
+}
